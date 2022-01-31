@@ -1,11 +1,11 @@
-# EDA-Use-Case
+# EDA-Use-Case uing breast cancer dataset. 
 
-Exploratory Data Analysis(EDA):  
+## Exploratory Data Analysis(EDA):  
 
 Exploratory Data Analysis is all about analysing the dataset and summarizing the key insights and characteristics from the data which are meaningful.
 
 
-EDA Checklist:
+### EDA Checklist:
 
 1. Understanding the dataset and check its shape.
 
@@ -21,7 +21,7 @@ EDA Checklist:
 
 
 
-Summary and Inferences about the dataset from our Exploratory Data Analysis:
+### Summary and Inferences about the dataset from our Exploratory Data Analysis:
 
 1. There are missing values in our dataset, so its not a problem here. If we would be having the missing values in our dataset then we will have to handle them.
 
